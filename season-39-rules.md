@@ -119,7 +119,7 @@ ___
     - (a) The Commissioners will consist of three (3) members with equal voting power and rights.
     - (b) At the conclusion of every season, the existing members of the Commissioners will be removed from their role in advance of the upcoming season, and eligible for re-election.
   - (2) Elections:
-    - (a) At the conclusion of the season, elections will be held to fill the three vacancies on the CRC.
+    - (a) At the conclusion of the season, elections will be held to fill the three vacancies on the Commissioners.
     - (b) The election will be conducted by the League Managers.
     - (c) The LMs will call for election applications and allow reasonable time for people to submit them.
       - (i) Applicants will be made public to allow reasonable time for interpretation prior to the election.
