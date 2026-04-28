@@ -284,7 +284,8 @@ ___
       - (i) Players who are nominated for 0 TC and do not receive bids from any other team will be added back to the draft packet unless the nominating team opts to receive the player for 0 TC.
     - (g) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
     - (h) Nominations of the first round (defined as numerically equivalent to the number of teams in a league) may be held at a prior date to the remaining rounds (a "co-captain draft") subject to Commissioner discretion.
-    - (i) Subject to Commissioner discretion, an auction draft whereby the right to nominate the next player to be added to their roster ("Snauction draft") is the result of a successful winning bid may be held rather than a typical auction draft.
+    - (i) Subject to Commissioner discretion, the Commissioners may instead choose to allocate rosters by running an auction draft where bids are placed, with the winning bid affording the next team the ability to add any undrafted player to their roster ("Snauction draft"). 
+
 
 #### Section C - The Snake Draft
   - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons in Novice league.
