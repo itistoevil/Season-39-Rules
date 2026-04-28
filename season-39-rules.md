@@ -1,4 +1,4 @@
-## Official Rules for North American League TagPro (NALTP) Season 38
+## Official Rules for North American League TagPro (NALTP) Season 39
 
 ### Table of Contents
 
@@ -139,7 +139,7 @@ ___
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the open seats in the election.
       - (ii) The appointed member does not have any term restrictions and can run for election as a Commissioner immediately.
   - (4) Members:
-    - (a) The Season 38 Commissioners will consist of Button, FLY, and Rain.
+    - (a) The Season 39 Commissioners will consist of Button, FLY, and Rain.
 
 #### Section B - The League Managers (LM)
   - (1) League Manager structure overview:
